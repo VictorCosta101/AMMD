@@ -78,6 +78,9 @@ sendo e(i, j ) a diferença entre o pixel sem compressão e após
 
 - https://colab.research.google.com/drive/1mZ-heJGThz8jTQSeeeZCvAPXrFdOnpUr?usp=sharing
 
+  # Lista 3
+  - https://colab.research.google.com/drive/1JrcFYlNm61EaPdVgdmo2-EArRNT9M3O0?authuser=1#scrollTo=7FluEIenAQJ2
+
 
 
 # Projeto 1 
